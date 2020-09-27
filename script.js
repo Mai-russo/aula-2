@@ -42,6 +42,7 @@ function loteria(aposta){
 			}
 		}
 	}
+	alert(sena);
 	if(cont==6){
 		alert('Parabéns, você ganhou !!!!!!');
 	}
