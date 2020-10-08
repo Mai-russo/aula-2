@@ -10,9 +10,9 @@ Este site é um simulador da *MegaSena*, onde o usuário digita seis numeros que
 3. **JS**: JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma (protótipos, orientado a objeto, imperativo e, funcional).
 
 ## Funções principais do código
-Aqui estão as duas funções principais do codigo.
+Aqui estão as três funções principais do código.
 
-### Função para realizar o sorteio dos números
+### Função para realizar o sorteio dos números:
 ```
 function sortear()
 {
@@ -27,7 +27,7 @@ let aux;
 	}
 }
 ```
-### Lê os numeros digitados e confere a sua validade
+### Função para ler os numeros digitados e conferir a sua validade
 ```
 function checar(){
 let aposta =[];
@@ -55,7 +55,7 @@ let aposta =[];
 	loteria(aposta);
 }
 ```
-### Executa a verificação dos acertos da aposta
+### Função para executar a verificação dos acertos da aposta realizada
 ```
 function loteria(aposta){
 	let cont=0;
