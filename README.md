@@ -76,4 +76,4 @@ function loteria(aposta){
 }
 ```
 ## O que fazer para rodar o codigo?
--> Baixe o codigo e abra o arquivo **_index.html_** no seu navegador da web
+--> Baixe o codigo e abra o arquivo **_index.html_** no seu navegador da web
