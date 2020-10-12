@@ -1,0 +1,23 @@
+input
+{
+  max-width: 2.5em;
+  font-size: 2.5em;
+  background-color: #FF1493;
+  color: white;
+}
+h1
+{
+  font-family: "Times New Roman";
+  text-align: center;
+  font-size: 40px;
+  color: #FF1493;
+}
+
+button
+{
+  background-color: #FF1493;
+  border: 0px;
+  color: white;
+  font-size: 40px;
+  elevation: 10px;
+}

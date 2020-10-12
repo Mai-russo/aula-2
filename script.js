@@ -25,10 +25,6 @@ function checar() {
 			alert('Valores repetidos. Tente novamente')
 			return 0;
 		}
-		else if (parseInt(aux) <= 0 || parseInt(aux) > 60)
-   			{
-    		 	alert("O número digitado não está entre 1 e 60")
-    		}
 		else{
 			aposta.push(aux);
 		}
